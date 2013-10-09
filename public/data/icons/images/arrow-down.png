@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<!-- OPEN html -->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<!-- Orevon - A Responsive Corporate WordPress Theme - Designed & Developed by Themecenter ( www.mannatstudio.com / www.themecenter.net ) -->
+	<!-- OPEN head -->
+	<head>
+		
+				
+		<!-- Site Meta -->
+		<meta charset="UTF-8" />
+		
+		<!-- Site Title -->
+		<title>404 Not Found | Puma Wordpress Service Company</title>
+		<!-- <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1"> -->
+		<!-- Mobile Specific Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 	
+		<!-- Pingback & Favicon -->
+		<link rel="pingback" href="http://pumatheme.com/xmlrpc.php" />
+				
+	    <!-- Legacy HTML5 Support -->
+	    <!--[if lt IE 9]>
+		<script src="../../../../../../../html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<!-- WordPress Hook -->
+		<link rel='stylesheet' id='icon-font-style-css'  href='../../../../../../wp-content/themes/adila/includes/plugins/vertoricon/css/icon-font-style.css@ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='tc_base-css'  href='../../../../../../wp-content/themes/adila/css/base.css@ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='tc_style-css'  href='../../../../../../wp-content/themes/adila/style.css@ver=3.6' type='text/css' media='all' />
+		<style>	   
+	a,h1,.top-head h1,.service-txt h2, .service-txt2 h2,.home-portfolio h2,.home-blog h2,.blog-wrap.dark p a,.blog-wrap.shadow-wrapper h3 a:hover,
+	portolfio-filter a:hover, portolfio-filter a.active ,.copyright span,.my-btn:hover, .my-btn.btn-large:hover, .my-btn.btn-small:hover,
+	ul.tabs li a:hover,.team_item_social .social-icons ul li a:hover,.my-btn:hover, .my-btn.btn-large:hover, .my-btn.btn-small:hover,.sb-search-input::-webkit-input-placeholder,.sb-search-input:-moz-placeholder,.sb-search-input::-moz-placeholder,.sb-search-input:-ms-input-placeholder,a,h1,.social-icons-1 ul li a:hover{color:#a0ce4e;}
+         a,h1,.top-head h1, .top-head2 h1,.social-icons-1 ul li a:hover,.team-icons ul li a:hover,#portolfio-filter a.active,#portolfio-filter a:hover{color:#a0ce4e;} 
+	.service-wrap-2:hover .hi-icon-effect-3a .hi-icon,.no-touch .hi-icon-effect-3a .hi-icon:hover,#awesome-feature h2{ color:#a0ce4e !important;}
+        .header_contact i, .gallery-small .center-bar a:hover, .single_portfolio_arrow a:hover, .single_portfolio_arrow i:hover, .portfolio_zoom:hover, .portfolio_link:hover, .port-head a, services-tab ul.tabs li.active a, .date-wrap, .pagination ul > li > a:hover, .pagination ul > li > a:focus, .pagination ul > .active > a, .pagination ul > .active > span, .wpcf7 .send-btn:hover, contact_form .send-btn:hover, commentform .send-btn:hover, h2.accordion-title.active, .tab-cloud a:hover, back-top a, .wpb_tour ul li.ui-tabs-active, .wpb_tour ul li.ui-tabs-active a, .flex-caption h2, .sf-menu > li.current > a, .sf-menu > li > a:hover, .sf-menu > li.sfHover > a, .sf-menu > li.current > a, li.current-menu-item a, ul.sf-menu>li.current-menu-ancestor>a, .sf-menu ul, #services-graph li span, #back-top a, .social-icons-1 ul li a span, .wrap-icon, .sb-icon-search, .sb-search.sb-search-open .sb-icon-search, .no-js .sb-search .sb-icon-search,.service-wrap .wrap-icon a,a.my-btn{ color:#fff !important;}    
+	.hi-icon-effect-3 .hi-icon:after{ background-color:#a0ce4e !important; box-shadow:0 0 0 4px #a0ce4e;}
+	.hi-icon-effect-3 .hi-icon{box-shadow:0 0 0 4px #a0ce4e !important;}
+	.searh_form_header input[type=text]:focus{box-shadow: 0px 0px 10px #a0ce4e;}
+	.searh_form_header i,.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover,.accordion-heading .accordion-toggle.active,.wpb_content_element .ui-accordion .ui-accordion-header.ui-accordion-header-active{ background-color: #a0ce4e !important;}
+	.header_contact i,.gallery-small .center-bar a:hover,.single_portfolio_arrow a:hover,.single_portfolio_arrow i:hover,.portfolio_zoom:hover, .portfolio_link:hover,
+	.port-head a,services-tab ul.tabs li.active a,.date-wrap,.pagination ul > li > a:hover, .pagination ul > li > a:focus, .pagination ul > .active > a, .pagination ul > .active > span,
+	.wpcf7 .send-btn:hover,contact_form .send-btn:hover,commentform .send-btn:hover,h2.accordion-title.active,.tab-cloud a:hover ,back-top a,.wpb_tour ul li.ui-tabs-active, .wpb_tour ul li.ui-tabs-active a,.flex-caption h2,
+ 	.sf-menu > li.current > a, .sf-menu > li > a:hover, .sf-menu > li.sfHover > a, .sf-menu > li.current > a,li.current-menu-item a, ul.sf-menu>li.current-menu-ancestor>a ,.sf-menu ul,#services-graph li span,
+ 	#back-top a,.social-icons-1 ul li a span,.wrap-icon,.sb-icon-search,.sb-search.sb-search-open .sb-icon-search,
+.no-js .sb-search .sb-icon-search,.portfolio-skin-carousel .jcarousel-next-horizontal:hover, .portfolio-skin-carousel .jcarousel-prev-horizontal:hover, .clients-skin-carousel .jcarousel-next-horizontal:hover, .clients-skin-carousel .jcarousel-prev-horizontal:hover,.work-icon i,.feature-icons img
+	{background: #a0ce4e !important;}
+	h2.active span { background:url(images/arrow-down.png) no-repeat left center #a0ce4e; color:2f2e2c;}
+	.wrap-icon:after{border-bottom:1px solid #a0ce4e;}
+	.sf-menu ul li{
+		border-bottom:1px solid #bddd83
+	}
+	::selection
+	{
+	background-color: #a0ce4e;
+	color : #fff;
+	}
+	::-moz-selection
+	{
+	background-color: #a0ce4e;
+	color : #fff;
+	}
+	::-webkit-selection
+	{
+	background-color: #a0ce4e;
+	color : #fff;
+	}
+	.team_list .span3:hover .team_info .team_item_info,.large_text_orange { background-color: #a0ce4e; }
+	.top-bar i,.header-search .form-search .input-append .btn,.btn-orange,.large_text_orange{ background :#a0ce4e !important; }
+	.callout .cll_left{ width:85% !important;}
+.service-wrap .wrap-icon a{ color:#fff;}
+.service-wrap h2 a{ color:#434250;}
+.port-head i{ width:auto; height:auto}
+textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input{ box-shadow:none !important;}
+.service-wrap-2 h2 a { color: #434250  !important;}
+.tc_main_head-style1 .portfolio-skin-carousel .jcarousel-prev-horizontal, .clients-skin-carousel .jcarousel-next-horizontal,.tc_main_head-style1 .portfolio-skin-carousel .jcarousel-next-horizontal, .clients-skin-carousel .jcarousel-prev-horizontal{ }
+.custom_sidebar_head-style4 .head-style1{ margin-bottom:0px !important;}
+element.style {
+}
+Matched CSS Rules
+pumatheme.com/media="all"
+.custom_sidebar_head-style4 .puma_sidebar_widget.widget {
+background: #fff !important;
+}
+.custom_sidebar_head-style4 .puma_sidebar_widget {
+padding-left: 0px !important;
+padding-right: 0px !important;
+padding-bottom: 24px !important;
+}
+.custom_sidebar_head-style4 .puma_sidebar_widget .head-style1:first-child{ padding-top:0px !important;}
+.custom_sidebar_head-style4 .puma_sidebar_widget .head-style1 {
+margin-left: -0px;
+margin-right: -0px;
+}
+.wpcf7 input, .wpcf7 textarea, #contact_form input, #contact_form textarea, #commentform input, #commentform textarea{ color: #212121 !important;}    #homeBaner{
+                        background:url() no-repeat fixed center bottom / cover #333333;
+                        }
+		 .top-header{ background : url(../../../../../../wp-content/themes/adila/images/banner-abstract.png) no-repeat top center #f3f3f3;}.header-style3.boxed-style2 .searh_form_header{ margin-right:60px !important;}.logo{margin-right:0;
+            margin-top:10px;
+            margin-bottom:0;
+            margin-left:20px;
+
+    }@import url("../../../../../../../fonts.googleapis.com/css@family=Source Sans Pro"); body{ font-family: "Source Sans Pro"  sans-serif ;}h1,h2,h3,h4,h5,h6{ font-family: "Source Sans Pro" , sans-serif}.widget-box li.current-menu-item a{ background:none !important;color:#434250 !important;}
+.wpcf7-submit{ width:120px !important;}
+footer .icon-mobile-phone{ font-size:18px !important;}/* 404 */
+body.error404 h1.title{ font-size: 260px !important;line-height:260px; margin-bottom:80px; }</style>		
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+<!-- /SEO Ultimate -->
+
+<link rel="alternate" type="application/rss+xml" title="Puma Wordpress Service Company &raquo; Feed" href="../../../../../../feed/default.htm" />
+<link rel="alternate" type="application/rss+xml" title="Puma Wordpress Service Company &raquo; Comments Feed" href="../../../../../../comments/feed/default.htm" />
+<link rel='stylesheet' id='bbp-default-bbpress-css'  href='../../../../../../wp-content/plugins/bbpress/templates/default/css/bbpress.css@ver=2.3.2' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='../../../../../../wp-content/plugins/contact-form-7/includes/css/styles.css@ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-settings-css'  href='../../../../../../wp-content/plugins/revslider/rs-plugin/css/settings.css@ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-captions-css'  href='../../../../../../wp-content/plugins/revslider/rs-plugin/css/captions.css@ver=3.6' type='text/css' media='all' />
+<script type='text/javascript' src='../../../../../../wp-includes/js/jquery/jquery.js@ver=1.10.2'></script>
+<script type='text/javascript' src='../../../../../../wp-includes/js/jquery/jquery-migrate.min.js@ver=1.2.1'></script>
+<script type='text/javascript' src='../../../../../../wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js@ver=3.6'></script>
+<script type='text/javascript' src='../../../../../../wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js@ver=3.6'></script>
+<script type='text/javascript' src='../../../../../../../pumatheme.com1/@ver=3.6_2F'></script>
+<meta name="generator" content="WordPress 3.6" />
+
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			
+						jQuery(document).ready( function() {
+
+				/* Use backticks instead of <code> for the Code button in the editor */
+				if ( typeof( edButtons ) !== 'undefined' ) {
+					edButtons[110] = new QTags.TagButton( 'code', 'code', '`', '`', 'c' );
+					QTags._buttonsInit();
+				}
+
+				/* Tab from topic title */
+				jQuery( '#bbp_topic_title' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( !e.ctrlKey && !e.altKey && !e.shiftKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+
+				/* Shift + tab from topic tags */
+				jQuery( '#bbp_topic_tags' ).bind( 'keydown.editor-focus', function(e) {
+					if ( e.which !== 9 )
+						return;
+
+					if ( e.shiftKey && !e.ctrlKey && !e.altKey ) {
+						if ( typeof( tinymce ) !== 'undefined' ) {
+							if ( ! tinymce.activeEditor.isHidden() ) {
+								var editor = tinymce.activeEditor.editorContainer;
+								jQuery( '#' + editor + ' td.mceToolbar > a' ).focus();
+							} else {
+								jQuery( 'textarea.bbp-the-content' ).focus();
+							}
+						} else {
+							jQuery( 'textarea.bbp-the-content' ).focus();
+						}
+
+						e.preventDefault();
+					}
+				});
+			});
+						/* ]]> */
+		</script>
+
+			<!--[if lte IE 7]>
+			<link href="../../../../../../wp-content/themes/adila/includes/plugins/vertoricon/css/ie7.min.css" media="screen" rel="stylesheet" type="text/css">
+		<![endif]-->
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	
+	<!-- CLOSE head -->
+	</head>
+		
+	<!-- OPEN body -->
+	<body class="error404 header-style2 tc_main_head-style2 fullwidth  wpb-js-composer js-comp-ver-3.5.5 vc_responsive">
+	
+    
+	<div class="main-wrapper full-width-template">	
+		<!-- OPEN Social Scripts -->
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = "../../../../../../../connect.facebook.net/en_GB/all.js#xfbml=1&appId=102602873192256";
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+		</script>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="../../../../../../../platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		<!-- CLOSE Social Scripts -->
+	
+		<noscript>
+			<div class="no-js-alert">
+				Please enable JavaScript to view this website.			</div>
+		</noscript>
+		                <!-- Header Start -->
+                <div class="top-header">
+                    <div class="header-wrap">
+                            <div class="shadow-wrapper" id="header-full">
+                            <div class="container">
+                                    <div class="row">
+                                    <div class="span3 logo">
+                                            <a href="../../../../../../default.htm"><img src="../../../../../../wp-content/uploads/2013/08/logo-21.png" alt=""></a>
+                                    </div>
+                                    <div class="span9">
+                                            <div class="top-bar">
+                                            <div class="text-right">
+                                                                				                    		<i class="icon-tablet"></i> +841999922468				                    		                                                                				                    		 <i class="icon-envelope"></i> <a href="#">pumathemeinc@gmail.com</a>
+				                    		                                                                
+                                             </div>            
+                                        </div>
+                                        <div class="text-right header-search">
+                                            <form method="get" class="bs-docs-example form-search" action="http://pumatheme.com">
+                                            
+                                                <div class="input-append">
+                                                  <input type="text" class="span3 search-query" placeholder="Search" name="s">
+                                                  <button class="btn" type="submit"><i class="icon-search"></i></button>
+                                                </div>
+                                            </form>
+                                            </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="header-style1">
+                                    <div class="container">
+                                    <div class="row">
+                                            <div class="span12">
+                                            <!-- Main Navigation -->
+                                            <!-- Main Navigation -->
+						                <nav id="top-menu" class="mainnav"><ul id="nav" class="sf-menu sf-js-enabled"><li id="menu-item-1473" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home"><a href="../../../../../../default.htm">Home<span>Get started</span></a></li>
+<li id="menu-item-1540" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../portfolio-4-columns-2/default.htm">Our Product<span>Free for member</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1661" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">WordPress Theme</a></li>
+	<li id="menu-item-1660" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">Joomla Template</a></li>
+	<li id="menu-item-1663" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">HTML</a></li>
+	<li id="menu-item-1662" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">Logo Design</a></li>
+</ul>
+</li>
+<li id="menu-item-1528" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../about-us/default.htm">About us<span>Something about us</span></a></li>
+<li id="menu-item-1664" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../website-creator/default.htm">Services<span>Alot of Services</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1657" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../website-creator/default.htm">Website Creator</a></li>
+	<li id="menu-item-1656" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../wordpress-theme/default.htm">WordPress Theme</a></li>
+	<li id="menu-item-1655" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../joomla-template/default.htm">Joomla Template</a></li>
+	<li id="menu-item-1654" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../logo-design/default.htm">Logo Design</a></li>
+	<li id="menu-item-1653" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../html-cuter/default.htm">HTML Cutter</a></li>
+	<li id="menu-item-1652" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../plugin-creator/default.htm">Plugin Creator</a></li>
+	<li id="menu-item-1651" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../themeforest-partner/default.htm">Partner With Us</a></li>
+	<li id="menu-item-1650" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../custom-work/default.htm">Custom Work</a></li>
+</ul>
+</li>
+<li id="menu-item-1665" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">Show Case<span>Some Client Site</span></a></li>
+<li id="menu-item-1588" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../blog-2/default.htm">Our Blog<span>New Like</span></a></li>
+<li id="menu-item-1557" class="menu-item menu-item-type-post_type menu-item-object-page default"><a href="../../../../../../contact-us-3/default.htm">Contact Us<span>Support 24/7</span></a></li>
+</ul></nav>                                            <!-- END Main Navigation -->
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+		        <div class="clearfix"></div>
+                </div>
+                <!-- Header End -->                    
+                
+                
+			
+				
+		                <div class="box-content">
+
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<div class="text-center page-header" style="text-align: center;">
+
+&nbsp;
+<h1 class="title">404</h1>
+<strong>The page cannot be found.</strong>
+
+</div>
+<h2 style="text-align: center;">You are looking for something that doesn't actrually exist</h2>
+<p style="text-align: center;"><a class="btn btn-large btn-danger" href="#">Danger</a></p>			</div>
+		</div>
+	</div>
+
+<!-- WordPress Hook -->
+        <div>&nbsp;</div>	</div>			
+									<!-- !-->
+    <footer id="footer" class="puma_style-1">
+	            <!-- END Top Footer -->
+           
+        <div class="shadow-wrapper contact_footer">
+            <div class="container">
+                <div class="row">
+                    <div class="span4 pad-bot">
+                       <h3><i class="icon-home"></i>  Location</h3>
+                                        <div>
+                                            <strong>The Center Long Beach</strong><br>
+                                            2017 E. 4th Street<br>
+                                            Long Beach, CA 90814
+                                        </div>                    </div>
+                    <div class="span4 pad-bot">
+                        <h3><i class="icon-mobile-phone"></i>  Phone</h3>
+                        <div>
+                            <strong>Tel:</strong> (650) 871-5500<br>
+                            <strong>Fax:</strong> (650) 872-8805<br>
+                            <strong>Email:</strong> <a href="#">info@adilawebstudio.com</a>
+                        </div>
+                                        </div>
+                    <div class="span4">
+                        <iframe width="300" scrolling="no" height="70" frameborder="0" class="map" marginheight="0" marginwidth="0" src="../../../../../../../maps.google.com/maps@f=q&source=s_q&hl=en&geocode=&q=Manhattan,+New+York,+NY&sll=37.0625,-95.677068&sspn=71.810722,137.724609&04526FA4DA"></iframe>                    </div>
+                </div>
+            </div>
+        </div>
+
+                <!-- Bottom Footer -->
+        <div id="footer-bottom" class="copyright text-center">
+            <div class="container">
+				<div class="row">
+					                    <div class="span12">
+                        Copyright 2013 | Orevon by <a href='../../../../../../../www.themecenter.com/default.htm'>Themecenter Ideas</a> | Powered by <a href="../../../../../../../wordpress.org/default.htm" target="_blank">WordPress</a>                    </div>
+                                    </div>
+            </div>
+        </div>
+        <!-- END Bottom Footer -->
+        
+        <!-- Goto -->
+		<p id="back-top">
+            <a href="#top"><i class="icon-angle-up"></i></a>
+        </p>
+        <!-- End Gotop-->
+
+            </footer>			
+					
+						<!-- WordPress Footer Hook -->
+		<div id="su-footer-links" style="text-align: center;"></div><link rel='stylesheet' id='flexslider1-css'  href='../../../../../../wp-content/themes/adila/css/flexslider.css@ver=3.6' type='text/css' media='all' />
+<script type='text/javascript' src='../../../../../../wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js@ver=3.36.0-2013.06.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"../../../../../../wp-content/plugins/contact-form-7/images/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../../../../../../wp-content/plugins/contact-form-7/includes/js/scripts.js@ver=3.4.2'></script>
+<script type='text/javascript' src='../../../../../../wp-includes/js/hoverIntent.min.js@ver=r7'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/bootstrap.min.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/modernizr.custom.79639.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/jquery.easing.1.3.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/jquery.hoverex.min.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/jquery.plugins.min.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/superfish.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/tinynav.min.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/classie.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/uisearch.js@ver=1.0.0'></script>
+<script type='text/javascript' src='../../../../../../wp-content/themes/adila/js/custom.js@ver=1.0.0'></script>
+            </div>	
+        
+	<!-- CLOSE body -->
+	</body>
+
+<!-- CLOSE html -->
+</html>

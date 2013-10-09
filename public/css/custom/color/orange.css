@@ -1,0 +1,161 @@
+a, a:visited { 
+	color: #d82445; 
+}
+
+#banner-content .banner-heading h1,#banner-content .banner-heading h2{
+	color:#d82445;
+}
+.about-wrap:hover{
+	border-bottom: 5px solid #d82445; 
+}
+.about-wrap:hover:after{
+	color: #d82445;
+}
+.about-wrap:hover .about-img{
+	background: #d82445;
+}
+.about-wrap:hover .about-img .sub-img{
+	background: #d82445;
+}
+.about-wrap .about-img i{
+	color: #d82445;
+}
+.about-wrap .about-img .sub-img{
+	border: 1px solid #666666;
+}
+/* ========================================================
+   Main Navigation
+======================================================== */
+
+/* ========================================================
+   SERVICE
+======================================================== */
+#services-graph li span {
+    background: url(../images/heading_bg.png) repeat scroll 0 0 #d82445;
+}
+/* Tipsy */
+.banner-contact h2{
+	color: #d82445;
+}
+.banner-contact h3{
+	color: #d82445;
+}
+
+.callbacks_nav.next:hover,.callbacks_nav.prev:hover{ border:1px solid #d82445;color:#d82445;}
+.callbacks_nav.next:hover i,.callbacks_nav.prev:hover i{color:#d82445;}
+
+
+#portolfio-filter {
+	background: #d82445;
+}
+
+#portolfio-filter a:hover, #portolfio-filter a.active {
+	background: #4ea94e;
+}
+
+/* ========================================================
+   Blog Page Style
+======================================================== */
+.date-wrap:hover:before{
+	background: #d82445;
+	border: 1px solid #d82445;
+}
+.date-wrap p{ 
+	color: #d82445; 
+}
+.date-wrap p span{
+	color: #d82445;
+}
+
+/* ========================================================
+   Contact Page Style
+======================================================== */
+
+.icon-wrap i{
+	color: #d82445;
+}
+
+.contact-element i{
+	color: #d82445;
+}
+.contact-element input:focus{
+	color: #d82445;
+}
+.contact-element textarea{
+	color: #d82445;
+}
+/* ========================================================
+   Contact Page Style
+======================================================== */
+
+.footer-social ul li:hover{
+	border: 1px solid #d82445;
+}
+.footer-social ul li a:hover{
+	color: #fff;
+}
+/* ========= end =========== */
+/* #Media Queries
+================================================== */
+
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		ul#nav li a:hover{color: #d82445;}
+		}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+		ul#nav li a:hover{color: #d82445;}
+	}
+
+h2.accordion-title:before{
+	color: #d82445;
+}
+h2.accordion-title{
+	color: #d82445;
+}
+
+
+.team-skin-carousel .jcarousel-next-horizontal:before:hover,
+.clients-skin-carousel .jcarousel-next-horizontal:before:hover{ color: #d82445; border: 1px solid #d82445; }
+.team-skin-carousel .jcarousel-prev-horizontal:before:hover,
+.clients-skin-carousel .jcarousel-prev-horizontal:before:hover{ color: #d82445; border: 1px solid #d82445; }
+
+.team-skin-carousel .jcarousel-next-horizontal:hover, .team-skin-carousel .jcarousel-prev-horizontal:hover,
+.clients-skin-carousel .jcarousel-next-horizontal:hover, .clients-skin-carousel .jcarousel-prev-horizontal:hover{color:#d82445;}
+.team-skin-carousel .jcarousel-next-horizontal:hover:before{border: 1px solid #d82445; color: #d82445;}
+.team-skin-carousel .jcarousel-prev-horizontal:hover:before{border: 1px solid #d82445; color: #d82445;}
+
+
+/* Services List Small 
+	Author : Nguyen Vuong Thanh
+	Date L 3:42
+*/
+.service-small .service-icon{
+	
+	color: #d82445 !important;
+	
+}
+.service-small:hover .service-icon{
+	background:#d82445;
+	
+}
+.service-small:hover .service-icon:before{
+	background:#d82445;
+	border: 1px solid #d82445;
+	
+}
+.about-wrap:hover .about-img{
+	
+	border: 1px solid #d82445;
+}
+.about-wrap:hover .about-img .sub-img{
+	
+	border: 1px solid #d82445;
+}
+.callout,.scrollbar .handle,#componentWrapper .progress_level{ background:#d82445;}
+.btn.btn-default{ background:#d82445 !important;}
+.banner-contact{ border: 1px solid #d82445;}
+#portolfio-filter a{ background:#d82445;color:#fff;}
+#portolfio-filter a.active,#portolfio-filter a:hover{ background:#fff;color:#d82445;}
+.gallery-small .bg, .blog-wrap .bg, .single-image .bg{ background:#d82445;}
+.gallery-small .center-bar a, .blog-wrap .center-bar a, .single-image .center-bar a{ background:#d82445;}

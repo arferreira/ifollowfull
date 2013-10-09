@@ -1,12 +1,48 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <title>Ifollow</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
-  <%= javascript_include_tag "application" %>
-  <%= csrf_meta_tags %>
+<html><head>
+    <title>iFollow Agência Digital</title>
+	
+    <meta charset="utf-8" />
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
+    <!-- Main Style Sheet -->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <!--[if lte IE 8 ]><link rel="stylesheet" type="text/css" href="css/ie_below_9.css" /><![endif]-->
+	
+	
+	<!-- Custom dark and light skin | Default light-->
+		<!-- End Custom Dark And White Skin -->
+	
+	<!-- Custom Boxed And Fullwidth | Default fullwidth -->
+			<link rel="stylesheet" type="text/css" href="css/custom/boxed-1240.css" />
+			<!-- End Custom Boxed And Fullwidth -->
+	
+	<!-- Color | Default green -->
+			<link rel="stylesheet" type="text/css" href="css/custom/color/orange.css" />
+	<!-- End Custom Color -->
+	
+	<!-- End Custom Boxed And Fullwidth -->
+	
+	<!-- OPTIOMS -->
+	<link rel="stylesheet" type="text/css" href="options/options.css" />
+	
+	
+	<!-- End Custom Color -->
+	
+	
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="images/icons/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="images/icons/apple-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/icons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/icons/apple-touch-icon-114x114.png" />
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans|Grand+Hotel' rel='stylesheet' type='text/css'>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
 </head>
-<body>
+<body class="default-skin">
 
 <%= yield %>
 

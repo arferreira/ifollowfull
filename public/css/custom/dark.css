@@ -1,0 +1,16 @@
+body #main_wrapper{ background:url(../../images/pattern-bg-dark.png);}
+.heading .hd_left,.heading .hd_right{ background:#fff;}
+.heading span:after,.heading span{ background:transparent; color:#fff;border-color:#fff;}
+.short-intro h2,.about-txt h3,h3,h4,.service-small .service-content h2,.scrollbar,.team-txt h3 span,.blog-wrap h3 a{ color:#ccc;}
+.about-wrap:after{ color:transparent; }
+.service-small .service-icon,.team-skin-carousel .jcarousel-prev-horizontal:before, .clients-skin-carousel .jcarousel-prev-horizontal:before,.team-skin-carousel .jcarousel-next-horizontal:before, .clients-skin-carousel .jcarousel-next-horizontal:before{ background:transparent;}
+
+.about-wrap {border-bottom: 5px solid transparent;}
+.about-wrap:hover{ color:#999;}
+.team-txt,.team-txt h3,{ border:1px solid #333;}
+.with-bg{ 
+border-top:2px solid #282828;
+-moz-box-shadow: 0px -14px #000;
+-webkit-box-shadow: 0px -14px #000;
+box-shadow: 0px -14px #000;
+}
