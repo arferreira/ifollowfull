@@ -37,6 +37,6 @@ production:
   reconnect: false
   database: ifollow_production
   pool: 5
-  username: rails
-  password: CAIF7xuNfy
+  username: root
+  password: rub32912289
   socket: /var/run/mysqld/mysqld.sock
