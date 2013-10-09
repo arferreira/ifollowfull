@@ -25,7 +25,7 @@ set :user, "root"
 
 set :use_sudo, false
 
-set :deploy_to, '/home/ifollowfull'
+set :deploy_to, '/home/rails'
 
 set :current, "#{deploy_to}/current"
 
